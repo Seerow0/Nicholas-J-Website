@@ -1,0 +1,61 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Upwork
+  title-url: https://www.upwork.com/freelancers/~0109ab87175452fca5
+  date: May 2021 - Present
+  subtitle: Freelance
+  tags:
+    - tag: Clients
+    - tag: Design Brief
+    - tag: Communication
+    - tag: International
+  timeline-side: right
+
+- title: EGD Collective
+  title-url: https://www.egdcollective.org/
+  date: Dec 2020 - May 2021
+  subtitle: Community engagement as Intern
+  tags:
+    - tag: Contact Indie Studios
+    - tag: Host Discord Events
+    - tag: Airtable
+  timeline-side: right
+
+- title: Careerist
+  title-url: https://www.careerist.com/
+  date: Mar 2020 - August 2020
+  subtitle: Software Quality Assurance Engineer as Intern
+  timeline-side: left
+
+- title: BFA Thesis
+  title-url: https://www.alfred.edu/academics/colleges-schools/art-design/thesis-exhibits/
+  date: Dec 6- Dec 13 2019
+  subtitle: Virtual Reality Exhibit
+  tags:
+    - tag: Interactive Space
+    - tag: VRHeadset
+    - tag: Wall Projections
+  timeline-side: right
+
+- title: Alfred University
+  title-url: https://www.alfred.edu/
+  date: 2015 - 2019
+  subtitle: Bachelor of Fine Arts
+  timeline-side: left

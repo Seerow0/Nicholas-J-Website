@@ -1,0 +1,45 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Testrail
+  weight: 2
+
+- name: Bash
+  weight: 1
+
+- name: Scrum
+  weight: 2
+
+- name: Jira
+  weight: 3
+
+- name: Maya
+  weight: 4
+
+- name: Unity3d
+  weight: 4
+
+- name: Premiere Pro
+  weight: 3
+
+- name: Chrome DevTools
+  weight: 5
+
+- name: Photoshop 
+  weight: 5
+
+- name: Illustrator
+  weight: 4
+  
+- name: Excel
+  weight: 4
+  
+- name: Word
+  weight: 2
+  
+- name: Powerpoint
+  weight: 3

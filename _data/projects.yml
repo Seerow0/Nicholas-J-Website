@@ -1,0 +1,35 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Sketchbook
+  descr: "My work and idea process."
+  demo: https://example.com/
+  tags:
+    - tag: Concept Art
+    - tag: Photoshop
+    - tag: Illustrator
+    
+
+- name: Game Development
+  descr: "Test my games. I will be also be leaving works in progress here. I appreciate all constructive feedback."
+  demo: https://example.com/
+  tags:
+    - tag: C#
+    - tag: Unity
+    - tag: Character Rigging
+
+- name: Video Documentation 
+  descr: "Documentation of Virtual Reality and my work."
+  demo: https://example.com/
