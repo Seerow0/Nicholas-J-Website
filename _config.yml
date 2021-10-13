@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Nicholas Jonathan
 # about_me_description: This will be displayed under the title.
-about_me_description: Designer based in Queens, NY. Hobbies include analyzing software, manual testing, creating art, and playing video games. Young and inexperienced but ambitious and willing to learn.
+about_me_description: Designer based in Queens, NY. Hobbies include analyzing software, manual testing, creating art, and playing video games. Ambitious and willing to learn.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
