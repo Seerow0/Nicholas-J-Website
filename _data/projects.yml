@@ -23,7 +23,7 @@
     
 
 - name: Game Development
-  descr: "Test my games. I will be also be leaving works in progress here. I appreciate all constructive feedback."
+  descr: "Test my games. I will be also be leaving works in progress here."
   demo: https://simmer.io/@Seerow
   tags:
     - tag: C#
@@ -31,5 +31,5 @@
     - tag: Character Rigging
 
 - name: Video Documentation 
-  descr: "Documentation of Virtual Reality and my work."
+  descr: "Documentation of Virtual Reality and my media work."
   demo: https://youtube.com/playlist?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH
