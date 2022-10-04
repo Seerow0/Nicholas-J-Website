@@ -15,11 +15,34 @@
 #     - tag: Javascript
 #     - tag: Ruby
 #     - tag: Rails
-#   timeline-side: right
+#   timeline-side: left
+
+- title: – Swiss Post Solutions-Credit Suisse
+  title-url: https://www.swisspostsolutions.com/en
+  date: July 2022
+  subtitle: Expense/Billing Clerk
+  tags:
+    - tag: Expense Reports
+    - tag: Claims Management Support
+    - tag: Vendor Invoices
+    - tag: Proprietary tools
+  timeline-side: right
+
+- title: Aston Carter- Kroll 
+  title-url: https://www.astoncarter.com/en
+  date: May 2022
+  subtitle: Data Entry Clerk 
+
+  tags:
+    - tag: Legal Document Processing
+    - tag: Print and Mail Production
+    - tag: Data entry
+    - tag: Process Client Data
+  timeline-side: left
 
 - title: Upwork
   title-url: https://www.upwork.com/freelancers/~0109ab87175452fca5
-  date: May 2021 - Present
+  date: May 2021 - April 2022
   subtitle: Freelance
   tags:
     - tag: Clients
@@ -31,12 +54,12 @@
 - title: EGD Collective
   title-url: https://www.egdcollective.org/
   date: Dec 2020 - May 2021
-  subtitle: Community engagement as Intern
+  subtitle: Community engagement Intern
   tags:
     - tag: Contact Studios
-    - tag: Host Discord Events
-    - tag: Airtable
-    - tag: Set up Vendors
+    - tag: Host Community Events
+    - tag: Data entry
+    - tag: Contact Vendors
   timeline-side: right
 
 - title: Careerist
