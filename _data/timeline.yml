@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: left
 
-- title: – Swiss Post Solutions-Credit Suisse
+- title: Swiss Post Solutions-Credit Suisse
   title-url: https://www.swisspostsolutions.com/en
   date: July 2022
   subtitle: Expense/Billing Clerk
@@ -26,7 +26,7 @@
     - tag: Claims Management Support
     - tag: Vendor Invoices
     - tag: Proprietary tools
-  timeline-side: right
+  timeline-side: left
 
 - title: Aston Carter- Kroll 
   title-url: https://www.astoncarter.com/en
@@ -38,7 +38,7 @@
     - tag: Print and Mail Production
     - tag: Data entry
     - tag: Process Client Data
-  timeline-side: left
+  timeline-side: right
 
 - title: Upwork
   title-url: https://www.upwork.com/freelancers/~0109ab87175452fca5
@@ -49,8 +49,7 @@
     - tag: Design Brief
     - tag: Communication
     - tag: International
-  timeline-side: right
-
+  timeline-side: left
 - title: EGD Collective
   title-url: https://www.egdcollective.org/
   date: Dec 2020 - May 2021
