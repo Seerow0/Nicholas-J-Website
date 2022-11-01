@@ -13,8 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Sketchbook
-  descr: "My work and idea process."
+- name: Portfolio
+  descr: "Example Work [Currently in hiatus while looking for a better platform]"
   demo: https://nicholasjv14.wixsite.com/portfolio
   tags:
     - tag: Concept Art
@@ -23,7 +23,7 @@
     
 
 - name: Game Development
-  descr: "Test my games. I will be also be leaving works in progress here."
+  descr: "Test my original experience in generative interactive games. [Currently only contains work from college semesters]"
   demo: https://simmer.io/@Seerow
   tags:
     - tag: C#
@@ -31,5 +31,5 @@
     - tag: Character Rigging
 
 - name: Video Documentation 
-  descr: "Documentation of Virtual Reality and my media work."
+  descr: "Documentation of My Creations in Virtual Reality and additional media work."
   demo: https://youtube.com/playlist?list=PLFYm4Qhfx-M1fSadbFODVUIeKXIPQRpPH
