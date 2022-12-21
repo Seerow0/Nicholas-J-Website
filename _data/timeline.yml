@@ -17,6 +17,17 @@
 #     - tag: Rails
 #   timeline-side: left
 
+- title: Stavros Niarchos Foundation Library
+  title-url: https://www.nypl.org/locations/snfl
+  date: December 2022
+  subtitle: Technology Aide
+  tags:
+    - tag: Technical Support
+    - tag: Audio/Visual 
+    - tag: Troubleshooting
+    - tag: Supporting staff and patrons
+  timeline-side: right
+
 - title: Swiss Post Solutions-Credit Suisse
   title-url: https://www.swisspostsolutions.com/en
   date: July 2022
