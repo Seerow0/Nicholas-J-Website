@@ -14,8 +14,8 @@
 #     - tag: Node
 
 - name: Portfolio
-  descr: "Example Work [Currently in hiatus while looking for a better platform]"
-  demo: https://nicholasjv14.wixsite.com/portfolio
+  descr: "A Scroll List Of Work"
+  demo: https://www.behance.net/gallery/179291697/Nicholas-Jonathan
   tags:
     - tag: Concept Art
     - tag: Photoshop
