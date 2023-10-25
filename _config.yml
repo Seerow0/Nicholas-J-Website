@@ -15,7 +15,7 @@ baseurl: ""
 username: Nicholas 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Welcome To My Portfolio!
+typing_text: Welcome To My Website!
 # email: Your E-Mail address for the email button.
 email: nicholasjv14@gmail.com
 # For every social button you want to display, set your username or userid
@@ -36,7 +36,9 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Nicholas Jonathan
 # about_me_description: This will be displayed under the title.
-about_me_description: Seeks to obtain career with structured assignments and promotion opportunities for personal growth and productivity of the workplace.  
+about_me_description: Tech-savvy professional with a strong background in technical support, data management,
+and project coordination. Known for delivering results and driving operational excellence.
+Adept at troubleshooting and software solutions.  
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
