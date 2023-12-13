@@ -19,13 +19,15 @@
 
 - title: Stavros Niarchos Foundation Library
   title-url: https://www.nypl.org/locations/snfl
-  date: December 2022 
-  subtitle: Technology Aide [Currently Working Here]
+  date: December 2022-Current
+  subtitle: Technology Aide
   tags:
     - tag: Technical Support
     - tag: Audio/Visual 
     - tag: Troubleshooting
     - tag: Supporting staff and patrons
+    - tag: Set Up and Host Programs
+    - tag:  Patron Support
   timeline-side: right
 
 - title: Swiss Post Solutions-Credit Suisse
@@ -89,8 +91,8 @@
   subtitle: Virtual Reality Exhibit
   tags:
     - tag: Interactive Space
-    - tag: VRHeadset
-    - tag: Wall Projections
+    - tag: Virtual Reality
+    - tag: Unity 3D
   timeline-side: right
 
 - title: Alfred University
