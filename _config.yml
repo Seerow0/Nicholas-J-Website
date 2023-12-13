@@ -36,8 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Nicholas Jonathan
 # about_me_description: This will be displayed under the title.
-about_me_description: Tech-savvy professional with a strong background in technical support, data management,
-and project coordination. Adept at troubleshooting and software solutions. Willing to learn new skills. 
+about_me_description: Tech-savvy professional with a strong background in technical support, data management,and project coordination. Adept at troubleshooting and software solutions. Willing to learn new skills. Seeks creative solutions to complex problems. 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
